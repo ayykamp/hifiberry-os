@@ -1,5 +1,10 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/hifiberry/hifiberry-os.svg)](https://GitHub.com/hifiberry/hifiberry-os/graphs/contributors/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+# Fork 
+
+This fork aims to enable a bluetooth LDAC sink using https://github.com/anonymix007/libldacdec
+
 # HiFiBerryOS
 
 HiFiBerryOS is our version of a minimal Linux distribution optimized for audio playback. 
