@@ -12,6 +12,7 @@ config BR2_PACKAGE_HIFIBERRY_BLUEZALSA
 	select BR2_PACKAGE_BLUEZ5_UTILS
 	select BR2_PACKAGE_LIBGLIB2
 	select BR2_PACKAGE_SBC
+	select BR2_PACKAGE_LIBLDAC
         select BR2_PACKAGE_FDK_AAC
 	help
 	  Bluetooth Audio ALSA Backend.
